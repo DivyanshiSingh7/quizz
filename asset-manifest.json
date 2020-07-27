@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/quizz/static/css/main.f75fa68c.chunk.css",
+    "main.js": "/quizz/static/js/main.408a7a9a.chunk.js",
+    "main.js.map": "/quizz/static/js/main.408a7a9a.chunk.js.map",
+    "runtime-main.js": "/quizz/static/js/runtime-main.b8bddf99.js",
+    "runtime-main.js.map": "/quizz/static/js/runtime-main.b8bddf99.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/quizz/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.d250fb1c.chunk.js": "/quizz/static/js/2.d250fb1c.chunk.js",
+    "static/js/2.d250fb1c.chunk.js.map": "/quizz/static/js/2.d250fb1c.chunk.js.map",
+    "index.html": "/quizz/index.html",
+    "precache-manifest.158fc402aab6dc37a22878e4b29d6d3b.js": "/quizz/precache-manifest.158fc402aab6dc37a22878e4b29d6d3b.js",
+    "service-worker.js": "/quizz/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/quizz/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.f75fa68c.chunk.css.map": "/quizz/static/css/main.f75fa68c.chunk.css.map",
+    "static/js/2.d250fb1c.chunk.js.LICENSE.txt": "/quizz/static/js/2.d250fb1c.chunk.js.LICENSE.txt",
+    "static/media/fertility-pic.JPG": "/quizz/static/media/fertility-pic.d8f73007.JPG",
+    "static/media/logo.svg": "/quizz/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8bddf99.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.d250fb1c.chunk.js",
+    "static/css/main.f75fa68c.chunk.css",
+    "static/js/main.408a7a9a.chunk.js"
+  ]
+}
